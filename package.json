@@ -1,0 +1,17 @@
+{
+  "name": "Object_practice",
+  "version": "0.0.0",
+  "description": "CF practice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonah Kirangi",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
